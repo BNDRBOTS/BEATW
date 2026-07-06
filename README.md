@@ -2,13 +2,13 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║                   ╔══════════════════════╗                   ║
-║                   ║   BEATW   V1.0      ║                   ║
-║                   ║  PRO‑GRADE BEAT     ║                   ║
-║                   ║  SYNTHESIS ENGINE   ║                   ║
+║                   ║   BEATW   V1.0      ║                    ║
+║                   ║  PRO‑GRADE BEAT     ║                    ║
+║                   ║  SYNTHESIS ENGINE   ║                    ║
 ║                   ╚══════════════════════╝                   ║
 ║                                                              ║
-║         ⚔️ JOYNER  🏛️ K.R.I.T.  🦇 REDZED                ║
-║         🗣️ HEDPE   📜 ZELL   ⚡ FUSED                   ║
+║         ⚔️ JOYNER  🏛️ K.R.I.T.  🦇 REDZED                     ║
+║         🗣️ HEDPE   📜 ZELL   ⚡ FUSED                          ║
 ║                                                              ║
 ║        "This isn't a beat pack. It's a sonic arsenal."       ║
 ║                                                              ║
