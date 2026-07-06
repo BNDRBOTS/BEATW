@@ -1,0 +1,9 @@
+
+{
+  "module_id": "runtime_performance_engine",
+  "name": "Conditional Execution & Self‑Correction Stack for Beat Production",
+  "description": "Provides runtime logic, weighted activation, trigger conditions, and self‑audit heuristics to prevent static output and enforce harmonic fusion dynamically.",
+  "implementation_instructions": "Load this module AFTER the 11 base modules. Apply the activation weights to all beat generations. Execute the conditional triggers in real‑time per bar. Run the self_evaluation_heuristics after every 4 bars; if any heuristic fails, rewrite the offending bar using the fallback_template before outputting.",
+  "source_artists": ["All"],
+  "integration_notes": "Without this runtime layer, the 11 modules are a static reference. With this layer, the AI becomes a dynamic, self‑correcting performance engine. This is the difference between a library and a weapon."
+}
